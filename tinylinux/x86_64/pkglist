@@ -1,5 +1,6 @@
-base-filesystem.tar.xz
-busybox.tar.xz
-init.tar.xz
-musl.tar.xz
-sinit.tar.xz
+base-filesystem base-filesystem.tar.xz
+busybox busybox.tar.xz
+init init.tar.xz
+musl musl.tar.xz
+sinit sinit.tar.xz
+helloworld helloworld.tar.xz
